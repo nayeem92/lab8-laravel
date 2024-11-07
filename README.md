@@ -47,10 +47,10 @@ docker-compose exec app php artisan migrate --force
 
 ### Screenshots
 
-1. ![Screenshot 1](screenshots_N01608790/lar1.PNG) 
-2. ![Screenshot 1](screenshots_N01608790/lar2.PNG) 
-3. ![Screenshot 1](screenshots_N01608790/lar3.PNG) 
-4. ![Screenshot 1](screenshots_N01608790/lar4.PNG) 
+1. ![Screenshot 1](screenshots_n01608790/lar1.PNG) 
+2. ![Screenshot 1](screenshots_n01608790/lar2.PNG) 
+3. ![Screenshot 1](screenshots_n01608790/lar3.PNG) 
+4. ![Screenshot 1](screenshots_n01608790/lar4.PNG) 
 
 ## Troubleshooting
 
